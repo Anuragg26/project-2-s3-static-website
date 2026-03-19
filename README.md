@@ -2,6 +2,9 @@
 
 ## 🚀 Overview
 This project demonstrates hosting a static website using AWS S3 with proper access control using IAM.
+![Website](screenshots/s3-website.png)
+![Bucket](screenshots/bucket.png)
+![Hosting](screenshots/hosting.png)
 
 ## 🧱 Architecture
 User → Amazon S3 (Static Website Hosting)

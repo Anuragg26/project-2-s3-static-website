@@ -8,6 +8,9 @@ This project demonstrates hosting a static website using AWS S3 with proper acce
 ## 🌐 Live Demo
 
 https://my-portfoliobucket-2026.s3.eu-north-1.amazonaws.com/index+(1).html 
+## 🔐 Security
+
+Implemented access control using AWS IAM policies and bucket permissions.
 
 ## 🧱 Architecture
 User → Amazon S3 (Static Website Hosting)

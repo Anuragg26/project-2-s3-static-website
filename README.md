@@ -13,7 +13,7 @@ https://my-portfoliobucket-2026.s3.eu-north-1.amazonaws.com/index+(1).html
 Implemented access control using AWS IAM policies and bucket permissions.
 
 ##  Architecture
-User → Amazon S3 (Static Website Hosting)
+User → S3 → Static Website 
 
 ##  Technologies Used
 - AWS S3

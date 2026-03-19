@@ -5,6 +5,9 @@ This project demonstrates hosting a static website using AWS S3 with proper acce
 ![Website](screenshots/s3-website.png)
 ![Bucket](screenshots/bucket.png)
 ![Hosting](screenshots/hosting.png)
+## 🌐 Live Demo
+
+https://my-portfoliobucket-2026.s3.eu-north-1.amazonaws.com/index+(1).html 
 
 ## 🧱 Architecture
 User → Amazon S3 (Static Website Hosting)
